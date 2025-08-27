@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="EVA1_PRACTICA4_EJEMPLO"/>
+        <attribute name="authors" value="ALEJANDRO JAQUEZ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 11:15:42 p. m."/>
+        <attribute name="created" value="QUxFSkFORFJPIEpBUVVFWjtERVNLVE9QLUlUSkRHNjY7MjAyNS0wOC0yNjsxMToxMDo0MCBwLiBtLjszNjc3"/>
+        <attribute name="edited" value="QUxFSkFORFJPIEpBUVVFWjtERVNLVE9QLUlUSkRHNjY7MjAyNS0wOC0yNjsxMToxNTo0MiBwLiBtLjsxOzM3OTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO&quot;" newline="True"/>
+            <output expression="&quot;ING EN SISTEMAS&quot;" newline="False"/>
+            <output expression="&quot;SALARIO&quot;" newline="True"/>
+            <output expression="20000" newline="False"/>
+            <output expression="&quot;HORAS SEMANA&quot;" newline="True"/>
+            <output expression="&quot;6 ALA SEMANA&quot;" newline="False"/>
+            <output expression="&quot;REQUIERE INGLES&quot;" newline="True"/>
+            <output expression="&quot;si&quot;" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
